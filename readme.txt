@@ -1,17 +1,17 @@
   === Osynlig Localization ===
 Contributors: osynligstefan
 Requires at least: 3.0.1
-Stable tag: trunk
+Stable tag: 1.0
 Tags: translation
-Tested up to: 3.4
+Tested up to: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Basic Wordpress plugin that makes it possible to change your websites locale.
+Basic Wordpress plugin that makes it possible to choose different website and admin locales.
 
 == Description ==
 
-Basic Wordpress plugin that makes it possible to change your websites locale.
+Basic Wordpress plugin that makes it possible to choose different website and admin locales.
 
 == Installation ==
 
