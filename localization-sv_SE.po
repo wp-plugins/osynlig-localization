@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Osynlig Localization\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-17 09:29+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Stefan Edberg <stefan@osynlig.se>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: osynlig-localization.php:43 osynlig-localization.php:74
+msgid "Localization"
+msgstr "Val av språk"
+
+#: osynlig-localization.php:81
+#, php-format
+msgid ""
+"The languages directory doesn't seem to exist. Create it in your theme "
+"folder (%s) and add your translation files."
+msgstr ""
+"Mappen languages verkar inte finnas. Skapa den i ditt tema (%s) och lägg in "
+"språkfilerna."
+
+#: osynlig-localization.php:83
+msgid ""
+"Couldn't find any translations. Check that you have put the translations in "
+"the languages directory."
+msgstr ""
+"Kunde inte hitta några översättningar. Kolla så att du lagt dem i "
+"languagesmappen i ditt tema."
+
+#: osynlig-localization.php:88
+msgid "Choose the locale you want on your website."
+msgstr "Välj det språk du vill ha på webbplatsen."
+
+#~ msgid "Options saved."
+#~ msgstr "Ändringarna har sparats."
+
+#~ msgid "Save Changes"
+#~ msgstr "Spara ändringar"
+
+#~ msgid "Choose the locale you want on your front-end."
+#~ msgstr "Välj den lokalisering du vill använda på webbplatsen."
+
+#~ msgid "Default Language"
+#~ msgstr "Standardspråk"
